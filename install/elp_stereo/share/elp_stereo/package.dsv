@@ -1,0 +1,5 @@
+source;share/elp_stereo/local_setup.bash
+source;share/elp_stereo/local_setup.dsv
+source;share/elp_stereo/local_setup.ps1
+source;share/elp_stereo/local_setup.sh
+source;share/elp_stereo/local_setup.zsh
