@@ -1,0 +1,17 @@
+build/
+install/
+log/
+
+CMakeCache.txt
+CMakeFiles/
+
+*.cmake
+.vscode/
+
+*.pyc
+__pycache__/
+
+*.log
+*.build
+*.install
+
